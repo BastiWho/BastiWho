@@ -9,7 +9,7 @@
 <br>💡 Mindset of Learning & Curiosity <br/>
 <br>🙌 Teamwork & Communication is always the key!<br>
 
-# Hobbies
+<br># Hobbies
 
 <br>📷 Photographer since 2010 <br/>
 <br>🎮 Gaming</br>
