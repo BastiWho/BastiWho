@@ -1,4 +1,4 @@
-# 👋🏻 Hi there, I'm Sebastian <br>
+# 👋🏻 Hi there, I'm Sebastian. I'm going to be a Junior DevOps Engineer. <br>
 
 
 
