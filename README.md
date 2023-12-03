@@ -1,8 +1,9 @@
 # 👋🏻 Hi there, I'm Sebastian <br>
 
-<img align="right" src="https://media.giphy.com/media/Okh0rKBGaGmo7iP77a/giphy.gif" />
+
 
 # 👨🏻‍💻 About Me:
+<img align="right" src="https://media.giphy.com/media/3VSM58Eu7kR4A/giphy.gif" />
 <br>📍Living in Germany.<br/>
 <br>🌱 I’m currently learning everything about DevOps Engineering and Cloud. <br/>
 <br>💡 Mindset of Learning & Curiosity <br/>
