@@ -1,10 +1,11 @@
-# 👋🏻 Hi there, I'm Sebastian. I'm going to be a Junior DevOps Engineer. <br>
+# 👋🏻 Hi there, I'm Sebastian. <br>
 
 
 
 # 👨🏻‍💻 About Me:
 <img align="right" src="https://media.giphy.com/media/3VSM58Eu7kR4A/giphy-downsized.gif" />
 <br>📍Living in Germany.<br/>
+<br> 💻 Goint to be a Junior DevOps Engineer<br/>
 <br>🌱 I’m currently learning everything about DevOps Engineering and Cloud. <br/>
 <br>💡 Mindset of Learning & Curiosity <br/>
 <br>🙌 Teamwork & Communication is always the key!<br>
