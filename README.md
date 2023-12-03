@@ -1,6 +1,6 @@
 # 👋🏻 Hi there, I'm Sebastian <br>
 
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/Okh0rKBGaGmo7iP77a/giphy.gif" />
 
 # 👨🏻‍💻 About Me:
 <br>📍Living in Germany.<br/>
