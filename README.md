@@ -7,9 +7,9 @@
 🙌 Teamwork & Communication is always the key!
 
 # Hobbies
-📷 Photographer since 2010
-🎮 Gaming
-🔭  All into Space
+<br>📷 Photographer since 2010 <br/>
+<br>🎮 Gaming
+<br>🔭  All into Space 
 
 
 ## 🌐 Socials:
