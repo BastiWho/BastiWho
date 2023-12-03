@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian 👋🏻<br>
+# 👋🏻 Hi there, I'm Sebastian <br>
 
 # 👨🏻‍💻 About Me:
 <br>📍Living in Germany.<br/>
