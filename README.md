@@ -11,7 +11,6 @@
 
 
 # Hobbies
-
 <br>📷 Photographer since 2010 <br/>
 <br>🎮 Gaming</br>
 <br>🔭  All into Space </br>
