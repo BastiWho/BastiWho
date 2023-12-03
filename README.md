@@ -1,15 +1,16 @@
 # Hi there, I'm Sebastian 👋🏻<br>
 
 # 👨🏻‍💻 About Me:
-📍Living in Germany.
-🌱 I’m currently learning everything about DevOps Engineering and Cloud.
-💡 Mindset of Learning & Curiosity
-🙌 Teamwork & Communication is always the key!
+<br>📍Living in Germany.<br/>
+<br>🌱 I’m currently learning everything about DevOps Engineering and Cloud. <br/>
+<br>💡 Mindset of Learning & Curiosity <br/>
+<br>🙌 Teamwork & Communication is always the key!<br>
 
 # Hobbies
+
 <br>📷 Photographer since 2010 <br/>
-<br>🎮 Gaming
-<br>🔭  All into Space 
+<br>🎮 Gaming</br>
+<br>🔭  All into Space </br>
 
 
 ## 🌐 Socials:
