@@ -1,5 +1,7 @@
 # 👋🏻 Hi there, I'm Sebastian <br>
 
+<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 # 👨🏻‍💻 About Me:
 <br>📍Living in Germany.<br/>
 <br>🌱 I’m currently learning everything about DevOps Engineering and Cloud. <br/>
