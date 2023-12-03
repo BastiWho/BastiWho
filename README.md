@@ -3,7 +3,7 @@
 
 
 # 👨🏻‍💻 About Me:
-<img align="right" src="https://media.giphy.com/media/3VSM58Eu7kR4A/giphy.gif" />
+<img align="right" src="https://media.giphy.com/media/3VSM58Eu7kR4A/giphy-downsized.gif" />
 <br>📍Living in Germany.<br/>
 <br>🌱 I’m currently learning everything about DevOps Engineering and Cloud. <br/>
 <br>💡 Mindset of Learning & Curiosity <br/>
